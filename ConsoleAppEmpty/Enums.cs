@@ -9,7 +9,7 @@ namespace GameEnums
     enum GameDifficuly
     {
         Easy,
-        Meduim,
+        Medium,
         Hard
     }
     enum CharacterClass
